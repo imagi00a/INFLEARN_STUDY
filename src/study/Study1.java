@@ -1,6 +1,6 @@
 package study;
 
-public class study1 {
+public class Study1 {
 
 	public static void main(String[] args) {
 
